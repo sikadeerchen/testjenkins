@@ -1,0 +1,5 @@
+*** Settings ***
+Resource          关键字汇总.txt
+
+*** Keywords ***
+滑动到指定元素

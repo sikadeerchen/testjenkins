@@ -1,0 +1,12 @@
+*** Settings ***
+Library           AppiumLibrary
+Library           OperatingSystem
+Library           String
+Library           DateTime
+Library           Collections
+Resource          ../4.环境设置/基础环境.txt
+Resource          业务关键字.txt
+Resource          基础关键字.txt
+Library           Screenshot
+Library           Dialogs
+Library           random

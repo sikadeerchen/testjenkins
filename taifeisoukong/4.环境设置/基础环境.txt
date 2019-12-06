@@ -1,0 +1,5 @@
+*** Variables ***
+&{6s-caps}        remote_url=http://127.0.0.1:4723/wd/hub    platformVersion=11.4.1    deviceName=iPhone6s    bundleId=com.cntaiping.tpl.expm.dev    udid=9ec95901f94f4e002f68a5a2ff82e309f7e3c110    platformName=iOS
+${timeout}        60
+${mintime}        0.5
+${taifeiBundleID}    com.cntaiping.tpl.expm.dev
